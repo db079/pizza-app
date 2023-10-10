@@ -1,0 +1,119 @@
+@import url('https://fonts.googleapis.com/css2?family=M+PLUS+Rounded+1c:wght@300&family=Mukta:wght@300;400&family=Playfair+Display:wght@700&display=swap');
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+/* font-family: 'Mukta', sans-serif; 
+font-family: 'Playfair Display', serif;
+*/
+/* .dark-theme{
+  --bg-color:#1f242d;
+  --second-bg-color:#323946;
+  --text-color:#fff;
+  --main-color:#0ef;
+} */
+:root{
+  --bg-color:#edf2fc;
+  --second-bg-color:#dde0db;
+  --bg-grey:#3a413f;
+  --text-color:#000;
+  --main-color:#ff5c35;
+}
+
+
+/* navbar */
+.navbar{
+  font-family: 'Mukta', sans-serif;
+  font-size: 17px;
+  line-height: 26px;
+  text-transform: uppercase;
+  box-shadow: 0px 10px 8px var(--bg-grey);
+  --webkit-box-shadow:0px 10px 8px var(--bg-grey);
+  border-radius: solid var(--text-color) !important ;
+  color: var(--text-color);
+  background: var(--bg-color);
+}
+.nav-link{
+  font-weight: 500 !important;
+}
+.active{
+  border-bottom: 1px solid var(--text-color);
+}
+.navbar-brand{
+  font-weight: 700;
+  font-family: "roboto",sans-serif;
+  letter-spacing: 3px;
+}
+
+/* footer */
+.footer{
+  color: var(--bg-color);
+  padding: 25px;
+  background: -webkit-linear-gradient( to right ,var(--bg-grey), var(--text-color));
+  background: linear-gradient( to right ,var(--bg-grey), var(--text-color));
+}
+.footer a{
+  text-decoration: none;
+  color: var(--bg-color);
+  padding: 10px;
+}
+.footer a:hover{
+  color: var(--main-color);
+  border-bottom: 1px solid var(--main-color);
+}
+
+/* page not found css */
+.pnf{
+  display: flex;
+  min-height: 65vh;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+.pnf-title{
+  font-size: 100px;
+  font-weight: 700;
+}
+.pnf-heading{
+     font-weight: normal;
+}
+.pnf-btn{
+  color: var(--text-color);
+  border: 1px solid var(--text-color);
+  border-radius: 4px;
+  text-decoration: none;
+  padding: 10px;
+  margin-top: 10px;
+}
+.pnf-btn:hover{
+  color: var(--main-color);
+  border: 1px solid var(--main-color);
+}
+
+
+/* contact us page */
+.contactus {
+  margin-top: 70px;
+  padding: 0;
+  height: 70vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+
+/* register page */
+.register{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 90vh;
+  flex-direction: column;
+}
+
+/* product page  */
+.product-link{
+  text-decoration: none !important;
+  color: black !important;
+}
