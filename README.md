@@ -80,6 +80,8 @@ To run the project, you need to follow these steps:
    ```bash
    git clone https://github.com/db079/pizza.git)https://github.com/db079/pizza.git
 2. Install the necessary dependencies for both the client and server:
+
+   
    for server use command in root :
    ```bash
    npm install
@@ -89,8 +91,8 @@ To run the project, you need to follow these steps:
    cd client
    npm install
    ```
-3. Set all the environment variable in client and root also.
-4. Start the development server. You can use the concurrently package to run both the client and server simultaneously.
+4. Set all the environment variable in client and root also.
+5. Start the development server. You can use the concurrently package to run both the client and server simultaneously.
    ```bash
    npm run dev
    ```
