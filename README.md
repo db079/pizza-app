@@ -98,27 +98,26 @@ To run the project, you need to follow these steps:
    ```
 ## Output
 
-###1) Home Page
-###2) Register
-###3) Email sent
-###4) verify
-###5) Login
-###6)
-###7) Home page and product filter
-###8) Add to cart
-###9) Cart
-###10) Checkout and Payment successfull
-###11) User Dashboard
-###12) Orders 
+- Home Page
+- Register
+- Email sent
+- verify
+- Login
+- Home page and product filter
+- Add to cart
+- Cart
+- Checkout and Payment successfull
+- User Dashboard
+- Orders 
 
 
-###13) Admin Dashboard
-###14) Product
-###15) Category
-###16) Orders 
-###17) Status change
-###18) Stock Alert
-###19) Logout
+- Admin Dashboard
+- Product
+- Category
+- Orders 
+- Status change
+- Stock Alert
+- Logout
 
 
 
