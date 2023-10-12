@@ -100,6 +100,8 @@ To run the project, you need to follow these steps:
 - file structure
   
   ![fs](https://github.com/db079/pizza/assets/138355007/338de454-b5c6-4b95-b81f-d5c676a019ce)
+    ![fs](https://github.com/db079/pizza/assets/138355007/338de454-b5c6-4b95-b81f-d5c676a019ce)
+
 
 
 - Home Page
