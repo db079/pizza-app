@@ -114,89 +114,93 @@ To run the project, you need to follow these steps:
   
 - Register
   
-  ![register](https://github.com/db079/pizza/assets/138355007/af6428a9-276d-46d6-ae8e-03e3658a420d)
+  ![register](/screenshot/register1.jpg)
 
 - Email sent
   
- ![email sent](https://github.com/db079/pizza/assets/138355007/5f6ae03d-f5a7-4756-be1f-e42c2f2f4367)
+ ![email sent](/screenshot/emailsent.jpg)
 
 - verify
   
-  ![verify](https://github.com/db079/pizza/assets/138355007/a3adf803-8d5b-4b57-ba87-81a82fa716cd)
+  ![verify](/screenshot/emailverify.jpg)
 
 - Login
   
-  ![login](https://github.com/db079/pizza/assets/138355007/4dce4cdc-2304-4e0e-b848-cb5ebfde1bf9)
+  ![login](/screenshot/login1.jpg)
 
 - Home page and product filter
   
-  ![homeandfilter](https://github.com/db079/pizza/assets/138355007/aa9efa5d-679d-4cd7-adc7-e086e5dca7e4)
+  ![homeandfilter](/screenshot/homefilter.jpg)
+
 
 - Category wise products
-  
-   ![categories](https://github.com/db079/pizza/assets/138355007/42033dcd-0002-450e-ab2b-181746f7726d)
+
+  ![category product](/screenshot/cp1.jpg)
+
+  ![category product](/screenshot/cp1.jpg)
+
 
 - Add to cart
   
-  ![Screenshot 2023-10-10 165146](https://github.com/db079/pizza/assets/138355007/49684965-e7ba-4cc5-9798-3784662c3bf9)
+  ![Add to cart](/screenshot/addtocart.jpg)
 
 - Cart
-  
-  ![emptycart](https://github.com/db079/pizza/assets/138355007/68292378-0c57-443d-a4e6-2dd24b59cad5)
 
-  ![cart](https://github.com/db079/pizza/assets/138355007/0546869e-7906-47ec-8fc1-cbadbc7a7255)
+  ![cart](/screenshot/cart1.jpg)
 
   
 -custom pizza
 
-  ![custom](https://github.com/db079/pizza/assets/138355007/d9348890-145a-4ac1-a931-ea942c6d11b7)
+  ![custom](/screenshot/customaddtocart.jpg)
 
 
 - Checkout and Payment successfull
 
   
-  ![prepay](https://github.com/db079/pizza/assets/138355007/2be5d3fc-9249-40ce-a214-bfe240b28445)
-   ![Screenshot 2023-10-10 165317](https://github.com/db079/pizza/assets/138355007/e8dec38e-e097-4cae-8faf-a3a5f109fcf7)
-  ![paymentsuccess](https://github.com/db079/pizza/assets/138355007/4d34c574-4e00-4adb-80b9-2831c08c75ea)
+  ![prepay](/screenshot/pay1.jpg)
+  ![paying](/screenshot/pay2.jpg)
+  ![paying](/screenshot/pay3.jpg)
 
 - User Dashboard
   
-  ![image](https://github.com/db079/pizza/assets/138355007/01f6cccd-2cf1-4eff-b023-adb2de0e70bd)
+  ![image](/screenshot/userdash.jpg)
 
 - Orders
-  ![order](https://github.com/db079/pizza/assets/138355007/2a556015-c72b-4318-8868-66cd8220fbf5)
+  
+  ![order](/screenshot/userorder.jpg)
 
   
 
 
 - Admin Dashboard
   
-  ![admindash](https://github.com/db079/pizza/assets/138355007/7383bb19-06ea-46c4-8d85-f6b7fee1b544)
+   ![admindash](/screenshot/admindash.jpg)
 
 - Product
+   ![update product](/screenshot/admincreateproduct.jpg)
   
-  ![update product](https://github.com/db079/pizza/assets/138355007/c9809749-8fff-45a0-aeae-28de4759c83e)
+   ![update product](/screenshot/adminprodut.jpg)
 
 
 - Category
   
-  ![adminCat](https://github.com/db079/pizza/assets/138355007/c97ff70d-fef8-47ac-836a-2fb503f1a1db)
+  ![adminCat](/screenshot/admincate.jpg)
 
 - Stock
   
-  ![base](https://github.com/db079/pizza/assets/138355007/2e27ad6a-f563-467d-98d0-1f07d2245318)
+  ![base](/screenshot/stockbase.jpg)
+
+  ![base](/screenshot/stocksauce.jpg)
+
 
 - Stock Alert
   
-  ![Screenshot 2023-10-10 171308](https://github.com/db079/pizza/assets/138355007/d4a20ac2-5d51-4fba-b4ac-c69e08634806)
+  ![alert](/screenshot/stockalert.jpg)
 
 - Orders
   
- ![orders](https://github.com/db079/pizza/assets/138355007/e5c26f26-8ef2-4c66-82d9-36aa52d5b134)
+ ![orders](/screenshot/adminorder.jpg)
 
-- Status change
-  
-  ![image](https://github.com/db079/pizza/assets/138355007/365f6b69-e467-4152-ac0c-9e152fcbbfd2)
 
   
 
