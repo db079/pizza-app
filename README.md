@@ -77,7 +77,7 @@ To run the project, you need to follow these steps:
 1. Clone the repository to your local machine.
 
    ```bash
-   git clone https://github.com/db079/pizza.git)https://github.com/db079/pizza.git
+   git clone https://github.com/db079/pizza-app.git
 2. Install the necessary dependencies for both the client and server:
 
    
