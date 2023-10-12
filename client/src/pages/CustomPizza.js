@@ -5,10 +5,15 @@ import { Checkbox, Col, Row } from 'antd';
 import { toast } from 'react-toastify';
 import 'react-toastify/dist/ReactToastify.css';
 import axios from 'axios';
+import { useCart } from '../context/cart';
 const { Option } = Select;
 
 
+
 const CustomPizza = () => {
+    const [cart,setCart] = useCart();
+    const [product, setProduct] = useState([]);
+    const [photo, setPhoto] = useState('/images/custom.jpg')
     const [description, setDescription] = useState("");
     const [baseList, setBaseList] = useState([]);
     const [base, setBase] = useState("");
@@ -232,7 +237,23 @@ const CustomPizza = () => {
                     <button type="button" class="btn btn-outline-primary ms-1" onClick={handleGetFare}>{price?price:'Get Fare'}</button>
                      <button className='btn btn-danger' onClick={()=>window.location.reload()}>Cleaar Filter</button>
                  </div>
-                <button className='btn btn-secondary m-1'>Add to cart</button>
+                 <button className='btn btn-secondary ms-1'
+                     onClick={(e)=>{
+                        e.preventDefault();
+                            const productData = new FormData();
+                            productData.append("name", "CUSTOM");
+                            productData.append("description", description);
+                            productData.append("price", price);
+                            productData.append("quantity", quantity);
+                            productData.append("base", base);
+                            productData.append("sauce", sauce);
+                            productData.append("cheese", cheese);
+                            productData.append("veggies", veggies);
+                            setProduct(productData);
+                      setCart([...cart,product]);
+                      localStorage.setItem('cart',JSON.stringify([...cart,product]));
+                      toast.success('Item added to cart');
+                    }}>Add to cart</button>
             </div>
         </Layout>
     )
