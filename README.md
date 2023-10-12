@@ -99,14 +99,17 @@ To run the project, you need to follow these steps:
 
 - file structure
   
-  ![fs](https://github.com/db079/pizza/assets/138355007/338de454-b5c6-4b95-b81f-d5c676a019ce)
-    ![fs](https://github.com/db079/pizza/assets/138355007/338de454-b5c6-4b95-b81f-d5c676a019ce)
+    ![fs](/screenshot/file.jpg)
 
-
-
-- Home Page
+- Home Page , Regist, Login and Cart before Login
   
-  ![home](https://github.com/db079/pizza/assets/138355007/eee3b48e-cb68-4216-97a5-d3876d2e55fa)
+  ![home](/screenshot/home.jpg)
+  
+  ![register](/screenshot/register.jpg)
+
+  ![Login](/screenshot/login.jpg)
+
+  ![cart](/screenshot/cart.jpg)
 
   
 - Register
